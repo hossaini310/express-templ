@@ -1,0 +1,102 @@
+[
+  {
+    "id": 0,
+    "title": "Avatar",
+    "year": "2009",
+    "genre": "Action, Adventure, Fantasy",
+    "type": "movie"
+  },
+  {
+    "id": 1,
+    "title": "I Am Legend",
+    "year": "2007",
+    "genre": "Drama, Horror, Sci-Fi",
+    "type": "movie"
+  },
+  { "id": 2, "title": "300", "year": "2006", "genre": "Action, Drama, Fantasy", "type": "movie" },
+  {
+    "id": 3,
+    "title": "The Avengers",
+    "year": "2012",
+    "genre": "Action, Sci-Fi, Thriller",
+    "type": "movie"
+  },
+  {
+    "id": 4,
+    "title": "The Wolf of Wall Street",
+    "year": "2013",
+    "genre": "Biography, Comedy, Crime",
+    "type": "movie"
+  },
+  {
+    "id": 5,
+    "title": "Interstellar",
+    "year": "2014",
+    "genre": "Adventure, Drama, Sci-Fi",
+    "type": "movie"
+  },
+  {
+    "id": 6,
+    "title": "Game of Thrones",
+    "year": "2011",
+    "genre": "Adventure, Drama, Fantasy",
+    "type": "series"
+  },
+  {
+    "id": 7,
+    "title": "Vikings",
+    "year": "2013",
+    "genre": "Action, Drama, History",
+    "type": "series"
+  },
+  {
+    "id": 8,
+    "title": "Gotham",
+    "year": "2014",
+    "genre": "Action, Crime, Drama",
+    "type": "series"
+  },
+  { "id": 9, "title": "Power", "year": "2014", "genre": "Crime, Drama", "type": "series" },
+  {
+    "id": 10,
+    "title": "Narcos",
+    "year": "2015",
+    "genre": "Biography, Crime, Drama",
+    "type": "series"
+  },
+  {
+    "id": 11,
+    "title": "Breaking Bad",
+    "year": "20082013",
+    "genre": "Crime, Drama, Thriller",
+    "type": "series"
+  },
+  {
+    "id": 12,
+    "title": "Doctor Strange",
+    "year": "2016",
+    "genre": "Action, Adventure, Fantasy",
+    "type": "movie"
+  },
+  {
+    "id": 13,
+    "title": "Rogue One: A Star Wars Story",
+    "year": "2016",
+    "genre": "Action, Adventure, Sci-Fi",
+    "type": "movie"
+  },
+  {
+    "id": 14,
+    "title": "Assassin's Creed",
+    "year": "2016",
+    "genre": "Action, Adventure, Fantasy",
+    "type": "movie"
+  },
+  {
+    "id": 15,
+    "title": "Luke Cage",
+    "year": "2016",
+    "genre": "Action, Crime, Drama",
+    "type": "series"
+  }
+]
